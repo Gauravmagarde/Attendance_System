@@ -1,0 +1,12 @@
+.A {
+    margin-top: 90px;
+}
+
+.Submit_btn {
+    color: White;
+    background-color: Navy;
+    font-size: large;
+    height: 35px;
+    border-radius: 10px;
+    width: 95px;
+}
